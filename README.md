@@ -1,4 +1,12 @@
 # Project
+
+I'm a System Administrator IT Infrastructure Engineer and Penetration Testing Engineer. I'm also an exploits developer and security researcher at ib cegos
+[packetstormsecurity.com](https://packetstormsecurity.com/search/?q=nu11secur1ty&s=files).
+[packetstormsecurity.com](https://packetstormsecurity.com/files/author/14758/).
+[0day.today](https://0day.today/author/40474)
+[cxsecurity.com](https://cxsecurity.com/author/nu11secur1ty/1/).
+[exploit-db.com](https://www.exploit-db.com/?author=10359),
+
 Summary
 
 A professional project can be defined as the objective that you aim for in the world of work and the means, the strategy that you implement to achieve it.
