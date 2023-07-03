@@ -1,4 +1,4 @@
-# Projet
+# Project
 
 Oui, nous construisons nos projets sur GitHub, en fait, nous le faisons depuis sa création, c'est à ce moment-là que nous avons fait notre premier commit. 
 Depuis lors, nous avons poussé plus de 2,5 millions de commits, ouvert plus d'un million de problèmes, soumis environ 650 000 demandes d'extraction dans 4357 référentiels de plus de 50 pays 🤯. 
